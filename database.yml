@@ -1,4 +1,0 @@
----
-development:
-  url {{env "DATABASE_URL" }}
-
